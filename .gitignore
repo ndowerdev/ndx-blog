@@ -5,5 +5,5 @@
 !/views/.gitkeep
 /cache
 !/cache/.gitkeep
-/src/*
+src/*.php
 !/src/.gitkeep
