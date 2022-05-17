@@ -3,7 +3,7 @@ namespace Ndx\Blog;
 
 use React\Http\Message\Response;
 
-class SitemapController
+class SitemapIndexController
 {
     public function __invoke()
     {
