@@ -1,0 +1,21 @@
+{
+  "require": {
+    "imangazaliev/didom": "^1.18",
+    "mikecao/flight": "^2.0",
+    "tightenco/collect": "8.78",
+    "duncan3dc/blade": "^4.11",
+    "nicmart/string-template": "^0.1.2",
+    "jaybizzle/crawler-detect": "^1.2",
+    "illuminate/config": "7",
+    "malios/php-to-ascii-table": "^3.0",
+    "clue/framework-x": "dev-main"
+  },
+  "autoload": {
+    "files": [
+      "functions.php"
+    ],
+    "classmap": [
+      "src/"
+    ]
+  }
+}

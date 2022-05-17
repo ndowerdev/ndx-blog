@@ -1,0 +1,7 @@
+/vendor
+/config/*
+!/config/.gitkeep
+/views/*
+!/views/.gitkeep
+/cache
+!/cache/.gitkeep
